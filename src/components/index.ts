@@ -13,6 +13,7 @@ import EmailSignup from "./miniComponents/EmailSignup";
 import Collection from "./collection/Collection";
 import PageNav from "./collection/PageNav";
 import FilterSection from "./collection/FilterSection";
+import Cars from "./collection/Cars";
 export {
   Navbar,
   HeroBanner1,
@@ -29,4 +30,5 @@ export {
   Collection,
   PageNav,
   FilterSection,
+  Cars,
 };
